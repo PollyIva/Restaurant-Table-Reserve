@@ -1,2 +1,2 @@
-# Restaurant-Table-Reserve-
+# Restaurant-Table-Reserve
 webpage for table reserve 
